@@ -1,5 +1,9 @@
 [tool.poetry]
+<<<<<<< HEAD
 name = "pythonproject7"
+=======
+name = "homework 4"
+>>>>>>> c2d6c7d94ef7dbb1cd21f35314af60e97296a8a9
 version = "0.1.0"
 description = ""
 authors = ["jockerlol <jockerlol1@gmail.com>"]
